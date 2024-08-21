@@ -124,7 +124,7 @@ class DoorLock:
         return False
 
 
-# Hier die main-Methode festlegen
+# Hier die main-Methode festlegen fweh
 if __name__ == "__main__":
     print("Test für Tür-Objekt")
     the_door_lock = DoorLock()
