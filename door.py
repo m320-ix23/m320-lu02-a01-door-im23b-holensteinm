@@ -55,6 +55,12 @@ class DoorLock:
     def __init__(self):
         print("ein Schloss erzeugt")
 
+    def unlock(self):
+        return false
+
+
+    def lock(self):
+        return True
 
 if __name__ == "__main__":
     print("Test für Tür-Objekt")
